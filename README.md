@@ -1,2 +1,2 @@
 # simple-quote-page
-website made by CodeberryScool
+A simple quote page
